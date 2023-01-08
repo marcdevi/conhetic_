@@ -1,0 +1,14 @@
+/*
+ Theme Name:   Blocksy Child
+ Description:  Blocksy Theme
+ Author:       N'gbehin Rike Marc Devy
+ Author URI:   http://marcdevy.com
+ Template:     blocksy
+ Version:      1.0.0
+*/
+
+#main-div{
+    background-color: red;
+    height:500px;
+    width:100%
+}

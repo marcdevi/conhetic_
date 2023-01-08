@@ -1,0 +1,27 @@
+2023-01-05T11:42:48+00:00 CRITICAL Uncaught ArgumentCountError: get_headers() expects at least 1 argument, 0 given in C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php:1
+Stack trace:
+#0 C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php(1): get_headers()
+#1 C:\laragon\www\conhetic\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\conhetic\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\conhetic\index.php(17): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown dans C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php à la ligne 1
+
+2023-01-05T11:43:22+00:00 CRITICAL Uncaught ValueError: Path cannot be empty in C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php:1
+Stack trace:
+#0 C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php(1): get_headers('')
+#1 C:\laragon\www\conhetic\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\conhetic\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\conhetic\index.php(17): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown dans C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php à la ligne 1
+
+2023-01-05T11:43:28+00:00 CRITICAL Uncaught ValueError: Path cannot be empty in C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php:1
+Stack trace:
+#0 C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php(1): get_headers('')
+#1 C:\laragon\www\conhetic\wp-includes\template-loader.php(106): include('C:\\laragon\\www\\...')
+#2 C:\laragon\www\conhetic\wp-blog-header.php(19): require_once('C:\\laragon\\www\\...')
+#3 C:\laragon\www\conhetic\index.php(17): require('C:\\laragon\\www\\...')
+#4 {main}
+  thrown dans C:\laragon\www\conhetic\wp-content\themes\blocksy\front-page.php à la ligne 1
+
