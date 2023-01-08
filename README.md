@@ -1,5 +1,6 @@
 Projet Wordpress
 
+Equipe H6
 
 Base de donnée
 conhetic.sql
